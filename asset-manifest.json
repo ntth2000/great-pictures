@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ntth2000/great-pictures.git/static/css/main.06b7e629.chunk.css",
+    "main.js": "/ntth2000/great-pictures.git/static/js/main.014c2c92.chunk.js",
+    "main.js.map": "/ntth2000/great-pictures.git/static/js/main.014c2c92.chunk.js.map",
+    "runtime-main.js": "/ntth2000/great-pictures.git/static/js/runtime-main.44955ff7.js",
+    "runtime-main.js.map": "/ntth2000/great-pictures.git/static/js/runtime-main.44955ff7.js.map",
+    "static/js/2.4849fa78.chunk.js": "/ntth2000/great-pictures.git/static/js/2.4849fa78.chunk.js",
+    "static/js/2.4849fa78.chunk.js.map": "/ntth2000/great-pictures.git/static/js/2.4849fa78.chunk.js.map",
+    "static/css/3.fc3ebc84.chunk.css": "/ntth2000/great-pictures.git/static/css/3.fc3ebc84.chunk.css",
+    "static/js/3.6d9cc465.chunk.js": "/ntth2000/great-pictures.git/static/js/3.6d9cc465.chunk.js",
+    "static/js/3.6d9cc465.chunk.js.map": "/ntth2000/great-pictures.git/static/js/3.6d9cc465.chunk.js.map",
+    "static/css/4.936f329b.chunk.css": "/ntth2000/great-pictures.git/static/css/4.936f329b.chunk.css",
+    "static/js/4.61426cc2.chunk.js": "/ntth2000/great-pictures.git/static/js/4.61426cc2.chunk.js",
+    "static/js/4.61426cc2.chunk.js.map": "/ntth2000/great-pictures.git/static/js/4.61426cc2.chunk.js.map",
+    "index.html": "/ntth2000/great-pictures.git/index.html",
+    "static/css/3.fc3ebc84.chunk.css.map": "/ntth2000/great-pictures.git/static/css/3.fc3ebc84.chunk.css.map",
+    "static/css/4.936f329b.chunk.css.map": "/ntth2000/great-pictures.git/static/css/4.936f329b.chunk.css.map",
+    "static/css/main.06b7e629.chunk.css.map": "/ntth2000/great-pictures.git/static/css/main.06b7e629.chunk.css.map",
+    "static/js/2.4849fa78.chunk.js.LICENSE.txt": "/ntth2000/great-pictures.git/static/js/2.4849fa78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44955ff7.js",
+    "static/js/2.4849fa78.chunk.js",
+    "static/css/main.06b7e629.chunk.css",
+    "static/js/main.014c2c92.chunk.js"
+  ]
+}
