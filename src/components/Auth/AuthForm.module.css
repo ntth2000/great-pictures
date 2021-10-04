@@ -1,0 +1,78 @@
+.auth {
+  font-family: 'Poppins', 'Sans Serif';
+  margin: 3rem auto;
+  width: 95%;
+  max-width: 25rem;
+  border-radius: 6px;
+  background-color: #343a40;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  text-align: center;
+  color: #fff;
+}
+
+.auth h1 {
+  text-align: center;
+  color: white;
+}
+
+.control {
+  margin-bottom: 0.5rem;
+}
+
+.control label {
+  display: block;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.control input {
+  font: inherit;
+  background-color: #c8c9ca;
+  color: #343a40;
+  border-radius: 4px;
+  width: 100%;
+  text-align: left;
+  padding: 0.25rem;
+  border:none;
+}
+
+.actions {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.actions button {
+  font-family: 'Poppins','Sans Serif';
+  font-size: 14px;
+  text-decoration: none;
+  background-color: #f0f0f0;
+  color: #343a40;
+  border-radius: 7px;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+.actions button:hover {
+  background-color: #c8c9ca;
+}
+
+.actions .toggle {
+  margin-top: 1rem;
+  background-color: transparent;
+  color: #f0f0f0;
+  border: none;
+  padding: 0.15rem 1.5rem;
+}
+
+.actions .toggle:hover {
+  background-color: transparent;
+  color: rgb(184, 184, 185);
+}
+.policy{
+  font-weight: 300;
+}

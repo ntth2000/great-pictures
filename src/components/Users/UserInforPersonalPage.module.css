@@ -1,0 +1,27 @@
+.UserInfor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+.UserInfor a{
+    text-decoration: none;
+    color: #343a40;
+}
+.UserInfor img{
+    border-radius: 50%;
+    max-width: 90px;
+    max-height: 90px;
+    margin-right: 2rem;
+}
+.UserInfor p{
+    font-size: 30px;
+}
+
+@media screen and (min-width: 768px) {
+    .UserInfor img{
+        max-width: 120px;
+        max-height: 120px;
+    }
+}

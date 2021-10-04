@@ -1,0 +1,13 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .item:hover{
+    cursor: pointer;
+  }
